@@ -7,10 +7,10 @@ import Destination from './Destination'
 import DestinationTours from './DestinationTours'
 import AboutVideo from './AboutVideo'
 import AboutSection from './AboutSection'
-import TestimonialSection from './TestmonialSection'
-import BlogSection from './BlogSection'
-import IntroSection from './IntroSection'
-import Footer from '../Footer.'
+// import TestimonialSection from './TestmonialSection'
+// import BlogSection from './BlogSection'
+// import IntroSection from './IntroSection'
+// import Footer from '../Footer.'
 
 
 const Home = () => {
